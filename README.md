@@ -6,3 +6,4 @@ Data werehouse &amp; Data Minning 2021
 
 Group Name
 
+![Uploading image.png…]()
