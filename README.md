@@ -6,4 +6,5 @@ Data werehouse &amp; Data Minning 2021
 
 Group Name
 
-![Uploading image.png…]()
+
+![DWDM21](https://user-images.githubusercontent.com/76930986/142013292-68a3412e-4cd9-418f-9cd8-1735c6f8a6ea.jpg)
