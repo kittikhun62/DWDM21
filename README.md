@@ -4,7 +4,17 @@ Data werehouse &amp; Data Minning 2021
 
 นาย กิตติคุณ เกียรติศักดิ์ศิริ 623020760-0
 
-Group Name
+GROP NAME I Love อ.ต้น
+
+1 นายชยากร จันทร์ลุน 623020517-9
+
+2 นายช่วงชัย จันทร์มณี
+
+3 อภิวัฒน์ เหลี่ยมสิงขร
+
+4 นวลแพร พนาวัฒนวงค์
+
+
 
 
 ![DWDM21](https://user-images.githubusercontent.com/76930986/142013292-68a3412e-4cd9-418f-9cd8-1735c6f8a6ea.jpg)
@@ -13,7 +23,8 @@ Group Name
 # สารบัญเนื้อหา
 
 
-## สรุปเนื้อหาบทที่ 1 Introduction
+## สรุปเนื้อหาบทที่ 1 Introduction 
+-https://github.com/kittikhun62/DWDM21/blob/main/Chapter%201-8.docx
 
 
 * Data Warehouse คืออะไร
@@ -32,12 +43,13 @@ Group Name
 
 * หัวข้อที่จะเรียน
 
-# สรุปเนื้อหาบทที่ 2 Getting to Know Your Data
+# สรุปเนื้อหาบทที่ 2 Getting to Know Your Data 
+-https://github.com/kittikhun62/DWDM21/blob/main/Chapter%201-8.docx
 
 * ลักษณะภาพว่าแต่ละมิติแตกต่างกันอย่างไร
 
-* ลักษณะข้อมูล EX ข้อมูลเป้นกราฟ , วิดีโอ
-
+* ลักษณะข้อมูล EX ข้อมูลเป้นกราฟ , วิดีโอ 
+-https://github.com/kittikhun62/DWDM21/blob/main/Chapter%201-8.docx
 * ชนิดของข้อมูล
 
 * คุณสมบัติที่สำคัญ
@@ -51,7 +63,9 @@ Group Name
 
 * สูตรในการคำนวณต่าง ๆ
 
-## สรุปเนื้อหาบทที่ 3 Data Preprocessing
+## สรุปเนื้อหาบทที่ 3 Data Preprocessing 
+-https://github.com/kittikhun62/DWDM21/blob/main/Chapter%201-8.docx
+
 
 * Data Preprocessing คืออะไร
 
@@ -65,7 +79,7 @@ Group Name
 
 * ตัวเลือกในการจัดการกับค่า Missing
 ## สรุปเนื้อหาบทที่ 4 Data Warehousing and On-line Anaalytical Processing
-
+-https://github.com/kittikhun62/DWDM21/blob/main/Chapter%201-8.docx
 * Data Warehousing คืออะไร
 * OLTP & OLAP
 * ทำไมถึงต้องแยก Data Warehousing
@@ -75,6 +89,7 @@ Group Name
 * ลักษณะข้อมูลในหลายมิติเป็นอย่างไร
 * การใช้ data warehouse ทั้งหมด 3 ประเภท
 ## สรุปเนื้อหาบทที่ 6 Mining Frequent Patterns, Association and Correlations:Basic Concepts and Methods
+-https://github.com/kittikhun62/DWDM21/blob/main/Chapter%201-8.docx
 
 * Basic Concepts
 * Patterns หมายถึงอะไร ทำไมมันถึงสำคัญ
@@ -83,6 +98,7 @@ Group Name
 * The Apriori Algorihm
 * ตัวอย่าง The Apriori Algorihm
 ## สรุปเนื้อบทที่ 8 Classification:Basic Concepts
+-https://github.com/kittikhun62/DWDM21/blob/main/Chapter%201-8.docx
 
 * ลักษณะการสร้างโมเดลแบบมีผู้สอน
 * ลักษณะการสร้างโมเดลแบบไม่มีผู้สอน
@@ -97,6 +113,7 @@ Group Name
 * Linear Regreesion
 * สารบัญในส่วน Github
 ## บทที่ 2 Data101(Chapter2)
+-https://github.com/kittikhun62/DWDM21/blob/main/Data101_(Chapter2).ipynb
 
 * ไฟล์ .csv (cav คือ comma separated values) เป็นไฟล์หลักที่เราได้ใช้เรียนกันในวิชานี้
 * Basic Python
@@ -122,12 +139,13 @@ Group Name
 * ลักษณะของ input (พารามิเตอร์)
 * Quiz ครั้งที่ 2 (27 ก.ค. 64)
 ## บทที่ 2 Data102_(Chapter2)
-
+-https://github.com/kittikhun62/DWDM21/blob/main/Data102(Chapter2).ipynb
 * Nan = not a Number (ช่องว่าง)
 * คำสั่ง .head() .tail()
 * Box plot
 * Time Series Plot
 ## บทที่ 3 Data_Preprocessing_(Chapter_3)
+-https://github.com/kittikhun62/DWDM21/blob/main/Data_Preprecessing(chapter_3).ipynb
 
 * Meta Data (Data ที่ใช้อธิบาย Data)
 * ชี้ข้อมูลในตาราง
@@ -159,15 +177,16 @@ Group Name
 * การบ้าน + ควิซ
 * [PD] save ตารางเอาไปใช้ที่อื่น
 * [PD] การสร้างตาราง
-* บทที่ 6 Chapter_6_Association_Rules
 
+## บทที่ 6 Chapter_6_Association_Rules
+-https://github.com/kittikhun62/DWDM21/blob/main/Chapter6_Association_Rules.ipynb
 * ลบ records ที่ถูก cancel ออกไป
 * การบ้านครั้งที่ 13 วาดกราฟสรุปจำนวน items และ ยอดขายของแต่ละประเทศ
 * เตรียม Data สำหรับ (Fequence Pattern) Association Rule
 * Apriori
 * (Quiz 7)
 ## บทที่ 7 Chapter7_Classification_(Decision_Tree)
-
+-https://github.com/kittikhun62/DWDM21/blob/main/Chapter7_Classification(decision_Tree).ipynb
 * Load Data
 * train (ฝึกสอนตัวแบบ)
 * plot tree
@@ -180,7 +199,7 @@ Group Name
 * Train - Validation
 * การบ้านครั้งที่ 16
 ## บทที่ 7 Chap7_Classification_(KNN_NN)
-
+-https://github.com/kittikhun62/DWDM21/blob/main/chap7_Classification_(KNN_NN).ipynb
 * Load data
 * Split Data
 * Train Model
@@ -193,14 +212,14 @@ Group Name
 * ANN 2
 * ANN 3
 ## บทที่ 7 Chapter_7_Classification_(Evaluation)
-
+-https://github.com/kittikhun62/DWDM21/blob/main/Chap7_Classification(Evaluation).ipynb
 * Load data
 * แบ่ง data
 * สร้าง model ทำนาย
 * Train - Test
 * Evalution
 ## บทที่ 8 Chap_8_Clustering
-
+-https://github.com/kittikhun62/DWDM21/blob/main/Chap8_Clustering.ipynb
 * K-means
 * Generat Data
 * Explole data
@@ -244,4 +263,4 @@ Group Name
 * Distance of Binary Value
 * สอบมิดเทอม MiniExam
 
-* โปรเจค Project
+* โปรเจค Project https://github.com/kittikhun62/DWDM21/blob/main/FinalProject3.ipynb
